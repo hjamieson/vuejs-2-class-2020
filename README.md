@@ -1,5 +1,7 @@
 # Vue JS 2 Notes
-Notes about vuejs (version 2) class.
+Classwork for Vue.js 2 Academy: Learn Vue Step by Step  
+by Chris Dixon, Packt Publishing
+
 
 ## Installing vue.js
 1. [Include vue in your html:](http://vuejs.org)
